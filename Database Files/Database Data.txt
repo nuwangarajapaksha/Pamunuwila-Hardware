@@ -1,0 +1,63 @@
+Not Selected
+Afghanistan
+Bangladesh
+Bhutan
+India
+Maldives
+Nepal
+Pakistan
+Sri Lanka
+
+Not Selected
+Ampara
+Anuradhapura
+Badulla
+Batticaloa
+Colombo
+Galle
+Gampaha
+Hambantota
+Jaffna
+Kalutara
+Kandy
+Kegalle
+Kilinochchi
+Kurunegala
+Mannar
+Matale
+Matara
+Monaragala
+Mullaitivu
+NuwaraEliya
+Polonnaruwa
+Puttalam
+Ratnapura
+Trincomalee
+Vavuniya
+
+Admin
+Accountant
+Cashier
+Employee
+Manager
+
+Not Selected
+Central
+Eastern
+North Central
+North Western
+Northern
+Sabaragamuwa
+Southern
+Uva
+Western
+
+Number
+Kg
+Liters
+Meters
+Millimeters
+
+
+
+'1', 'Not Selected', 'null', '0000000000', 'null', 'null', '1', '1', '1', '1'
